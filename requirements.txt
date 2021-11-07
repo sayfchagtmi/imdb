@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+certifi==2020.12.5
+soupsieve==2.3
+tqdm==4.62.3
