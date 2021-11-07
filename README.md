@@ -1,3 +1,3 @@
-Data extracted from the web using **Beautiful Soup 4** :
+* This is a simple script to scrape <a href = 'https://www.imdb.com/'>IMDB</a> movies from a selected range of years (by default starting from 1874 up to know).
 
- <a href="https://github.com/sayfchagtmi/imdb/blob/master/movies_imdb.csv%20" ><i class="fas fa-file-excel"></i>   **IMDB dataset** </a>
+* You can specify starting year, ending year and the output file name throught arguments (See help)
